@@ -1,0 +1,198 @@
+body {
+    background-color: #010a13; /* Secondary color, light gray */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    background-color: rgb(188, 165, 165);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(207, 146, 146, 0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #f8fafb; /* Primary button color */
+    color: rgb(15, 14, 14);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #5b7491; /* Darker shade on hover */
+}
+
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+body {
+    background-color: #000; /* Black background for the entire page */
+    color: #fff; /* White text for the entire page */
+    margin: 0;
+}
+
+footer {
+    background-color: #000; /* Black background for the footer */
+    color: #fff; /* White text for the footer */
+}
+
+.social-icons a {
+    color: #893030; /* White icons */
+}
+
+.social-icons a:hover {
+    color: #b31515; /* Slightly lighter on hover */
+}
+
+body {
+    background-color: black; /* Set the background color to black */
+    color: white; /* Set the text color to white */
+}
+
+.navbar-nav .nav-link {
+    color: white; /* Ensure the navbar links are white */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ccc; /* Optional: change color on hover for better visibility */
+}
+form-container {
+    max-width: 400px; /* Limit width of the form */
+    margin: 0 auto; /* Center the form */
+}
+
+.bg-dark {
+    background-color: #000; /* Black background */
+}
+
+.text-white {
+    color: #fff; /* White text */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bootstrap primary button color */
+    border: none; /* Remove border */
+}
+/* CSS for header and footer */
+
+.main-header {
+    background-color: black; /* White background */
+    color: white; /* White text color */
+}
+
+footer {
+    background-color: black; /* White background */
+    color: white; /* White text color */
+}
+
+/* Optional: Adjust link color for visibility */
+.main-header a,
+footer a {
+    color: #000; /* Change link color to black for better visibility */
+}
+
+.main-header a:hover,
+footer a:hover {
+    text-decoration: underline; /* Add hover effect */
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff; /* Secondary color */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="url"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #007bff; /* Secondary color */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker shade for hover */
+}
